@@ -42,3 +42,8 @@ print(df.columns.tolist())
 ```
 The dataset containing 18 targets.
 Test dataset has the same structure but filled with `NaN`.
+
+## Contact
+
+If you have any questions, feel free to contact us BC3D_2021[at]protonmail.com.
+
